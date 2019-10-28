@@ -1,4 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks chanages.
+Git tracks changes of files.
+My stupid boss will perfers SVN.
+Compare working and staged.
+This is remote to change.
