@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss will perfers SVN.
 Compare working and staged.
 This is remote to change.
+Creating a new branch is quick.
